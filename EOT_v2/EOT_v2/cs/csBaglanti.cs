@@ -8,7 +8,6 @@ namespace EOT_v2.cs
 {
     class csBaglanti
     {
-        //deneme sürümü 3
-        //silvmşksfmsdf
+        
     }
 }
